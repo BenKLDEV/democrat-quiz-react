@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b828a86ac99b3b340b0c36f4c365b47f",
+    "revision": "341c3c93ac62fadc39d7f559ec5c2453",
     "url": "/democrat-quiz-react/index.html"
   },
   {
-    "revision": "93081878b41ec36b5ca5",
-    "url": "/democrat-quiz-react/static/css/main.613f737b.chunk.css"
+    "revision": "c82cb207d5c4ec1c71cb",
+    "url": "/democrat-quiz-react/static/css/main.eee736b0.chunk.css"
   },
   {
     "revision": "6d0f4a51d2bb66fa007e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/democrat-quiz-react/static/js/2.c90619e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93081878b41ec36b5ca5",
+    "revision": "c82cb207d5c4ec1c71cb",
     "url": "/democrat-quiz-react/static/js/main.fe0be434.chunk.js"
   },
   {

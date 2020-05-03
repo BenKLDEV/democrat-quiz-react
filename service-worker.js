@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/democrat-quiz-react/precache-manifest.ece6b727b57022d79b6eeb75acbc9e56.js"
+  "/democrat-quiz-react/precache-manifest.d4cb33d1c29255ee8fd6ddb19ea8abb5.js"
 );
 
 self.addEventListener('message', (event) => {

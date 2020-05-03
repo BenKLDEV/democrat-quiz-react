@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/democrat-quiz-react/static/css/main.613f737b.chunk.css",
+    "main.css": "/democrat-quiz-react/static/css/main.eee736b0.chunk.css",
     "main.js": "/democrat-quiz-react/static/js/main.fe0be434.chunk.js",
     "main.js.map": "/democrat-quiz-react/static/js/main.fe0be434.chunk.js.map",
     "runtime-main.js": "/democrat-quiz-react/static/js/runtime-main.ebd8cee1.js",
@@ -8,15 +8,15 @@
     "static/js/2.c90619e0.chunk.js": "/democrat-quiz-react/static/js/2.c90619e0.chunk.js",
     "static/js/2.c90619e0.chunk.js.map": "/democrat-quiz-react/static/js/2.c90619e0.chunk.js.map",
     "index.html": "/democrat-quiz-react/index.html",
-    "precache-manifest.ece6b727b57022d79b6eeb75acbc9e56.js": "/democrat-quiz-react/precache-manifest.ece6b727b57022d79b6eeb75acbc9e56.js",
+    "precache-manifest.d4cb33d1c29255ee8fd6ddb19ea8abb5.js": "/democrat-quiz-react/precache-manifest.d4cb33d1c29255ee8fd6ddb19ea8abb5.js",
     "service-worker.js": "/democrat-quiz-react/service-worker.js",
-    "static/css/main.613f737b.chunk.css.map": "/democrat-quiz-react/static/css/main.613f737b.chunk.css.map",
+    "static/css/main.eee736b0.chunk.css.map": "/democrat-quiz-react/static/css/main.eee736b0.chunk.css.map",
     "static/js/2.c90619e0.chunk.js.LICENSE.txt": "/democrat-quiz-react/static/js/2.c90619e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ebd8cee1.js",
     "static/js/2.c90619e0.chunk.js",
-    "static/css/main.613f737b.chunk.css",
+    "static/css/main.eee736b0.chunk.css",
     "static/js/main.fe0be434.chunk.js"
   ]
 }
